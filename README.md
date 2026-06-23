@@ -1,1 +1,1 @@
-# functional-dependency---SQL
+# DBMS functional-dependency---SQL
